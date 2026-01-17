@@ -8,5 +8,5 @@
     "amount": "100",
     "category" : "Data",
     "ussd": "*544*100#"
-  },
+  }
 ]

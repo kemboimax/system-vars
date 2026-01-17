@@ -1,0 +1,11 @@
+  {
+    "amount": "50",
+    "category" : "SMS",
+    "ussd": "*544*50#"
+  },
+  {
+    "amount": "100",
+    "CATEGORY" : "Data",
+    "ussd": "*544*100#"
+  }
+]

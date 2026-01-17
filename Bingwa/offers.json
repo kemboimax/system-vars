@@ -1,5 +1,9 @@
 [
-
+    {
+    "amount": "5",
+    "category" : "Minutes",
+    "ussd": "*544*50*20#"
+  },
     {
     "amount": "10",
     "category" : "SMS",

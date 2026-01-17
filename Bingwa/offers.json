@@ -5,7 +5,7 @@
   },
   {
     "amount": "100",
-    "CATEGORY" : "Data",
+    "category" : "Data",
     "ussd": "*544*100#"
-  }
+  },
 ]

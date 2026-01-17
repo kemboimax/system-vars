@@ -1,4 +1,5 @@
-  {
+[
+{
     "amount": "50",
     "category" : "SMS",
     "ussd": "*544*50#"
